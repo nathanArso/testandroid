@@ -6,6 +6,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
     private Exercis e;
+    private Exercis e1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
